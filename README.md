@@ -211,12 +211,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output
 
-<img width="419" alt="image" src="https://github.com/Nagajyothichinta/Ex_No_11_Thread-Synchronization/assets/94191344/1c927eb1-cac5-4608-93ef-89b445ee6030">
-
-
-
-
-<img width="149" alt="image" src="https://github.com/Nagajyothichinta/Ex_No_11_Thread-Synchronization/assets/94191344/fff343b6-950c-441a-a40f-41fb3005c03f">
+<img width="419" alt="image" src="https://github.com/Nagajyothichinta/Ex_No_11_Thread-Synchronization/assets/94191344/1c927eb1-cac5-4608-93ef-89b445ee6030">   <img width="149" alt="image" src="https://github.com/Nagajyothichinta/Ex_No_11_Thread-Synchronization/assets/94191344/fff343b6-950c-441a-a40f-41fb3005c03f">
 
 
 ## Result:
